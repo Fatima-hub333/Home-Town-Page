@@ -3,10 +3,10 @@
 # HomeTown
 It's Home-town static web page built with HTML5, CSS3, CSS-Flexbox
 
-![screenshot](Google_Clone.png)
+![screenshot](images/HomeTown.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(https://mellow-licorice-243884.netlify.app)
 
 ## Built With
 
