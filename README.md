@@ -3,7 +3,7 @@
 # HomeTown
 It's Home-town static web page built with HTML5, CSS3, CSS-Flexbox
 
-![screenshot](images/HomeTown.png)
+![screenshot](images/HomwTown.png)
 
 ## [LiveDemo] 
 (https://mellow-licorice-243884.netlify.app)
@@ -11,7 +11,6 @@ It's Home-town static web page built with HTML5, CSS3, CSS-Flexbox
 ## Built With
 
 - HTML, CSS
-- JavaScript
 - Stylelint, Web Hint, Lighthouse
 
 
